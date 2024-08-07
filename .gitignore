@@ -1,0 +1,6 @@
+# Envinronment Variables
+*.env
+
+# IDE Files
+.idea
+.idea/*
